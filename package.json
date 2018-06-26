@@ -1,0 +1,18 @@
+{
+  "name": "nodeprojectstarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "scaffold": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caporal": "^0.10.0",
+    "colors": "^1.3.0",
+    "inquirer": "^6.0.0",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
